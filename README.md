@@ -1,5 +1,6 @@
-![Banner GIF][(https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif)](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Yash Jaiswal</h1>
 <h3 align="left">🎯 A passionate Full-Stack Developer from India 🇮🇳 </h3>
@@ -112,3 +113,4 @@
   </tr>
 </table>
 
+](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
