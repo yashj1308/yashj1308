@@ -2,7 +2,7 @@
 <h3 align="left">🎯 A passionate Full-Stack Developer from India 🇮🇳 </h3>
 <h3 align="left">🧠 Backend-heavy with a love for clean architecture & scalable systems </h3>
 <h3 align="left">🚀 Always learning and leveling up — one commit at a time! </h3>
-
+<hr/>
 - 📫 How to reach me **yashj180402@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OtO7b0gJhzQgnRtNEQEpVYXtL85hmBP5/view?usp=sharing](https://drive.google.com/file/d/1OtO7b0gJhzQgnRtNEQEpVYXtL85hmBP5/view?usp=sharing)
