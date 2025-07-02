@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Jaiswal</h1>
 <h3 align="left">🎯 A passionate Full-Stack Developer from India 🇮🇳 </h3>
 <h3 align="left">🧠 Backend-heavy with a love for clean architecture & scalable systems </h3>
-<h3 align="left">💻 Currently building tools with C#, .NET, Node.js, and React  </h3>
-<h3 align="left">📊 I enjoy turning complex problems into working APIs and functional UI </h3>
 <h3 align="left">🚀 Always learning and leveling up — one commit at a time! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashj1308&label=Profile%20views&color=0e75b6&style=flat" alt="yashj1308" /> </p>
